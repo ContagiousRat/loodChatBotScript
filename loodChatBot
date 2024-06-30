@@ -250,5 +250,4 @@ local function getBotResponse(userInput)
 
     question = "how do I change my Roblox password without email 2023"
     print(respondToQuestion(question))
-
-print(This Lua script defines a dictionary of Roblox-related questions and answers and includes a function to check if the input question is in the dictionary, returning a corresponding answer or a default response if the question is not recognized. The example usage shows how you can input a question and get an answer based on the predefined data.)
+end 
